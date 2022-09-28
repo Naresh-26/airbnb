@@ -1,0 +1,130 @@
+.logo
+{
+    width: 100px;
+}
+.big
+{
+    
+    display: flex;
+    width: fit-content;
+    border-radius: 20px;
+    align-items: center;
+    /* padding-inline: 25px; */
+    padding: 8px;
+    box-shadow: 1px 0px 3px 0px grey;
+}
+.merg
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.combined
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 15px 0px 15px;
+    margin: 15px;
+   
+}
+.pare
+{
+    padding-right: 10px;
+}
+.jar
+{
+    padding-left: 15px;
+}
+.noth
+{
+    padding-right: 30px;
+}
+.mirr
+{
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 30px;
+    background-color: #ff5a5f;
+    color: white;
+    border: none;
+}
+.ides
+{
+    width: 30px;
+}
+.now
+{
+    display: flex;
+    border: 1px solid grey;
+    width: 90px;
+    border-radius: 30px;
+    align-items: center;
+    height: 45px;
+}
+.become
+{
+    padding-right: 25px;
+}
+.space
+{
+    width: 30px;
+}
+.logomerg
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+.filt
+{
+    border-radius: 10px;
+    width: 90px;
+    height: 40px;
+    font-size: small;
+    font-weight: 600;
+}
+.nones
+{
+    height: 30px;
+}
+.crd1
+{
+    width: 300px;
+    height: 265px;
+    border-radius: 15px;
+}
+.total
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.finland
+{
+    line-height: 23px;
+    padding-bottom: 40px;
+}
+.last
+{
+    padding-left: 60px;
+}
+.kilo
+{
+    color: darkgray;
+}
+.suoms
+{
+    font-weight: 500;
+}
+.mapi
+{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    height: 40px;
+    width: 130px;
+}
+.fixer
+{
+    position: fixed;
+    
+}
