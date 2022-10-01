@@ -1,3 +1,8 @@
+body
+{
+    margin: 0px ;
+}
+
 .logo
 {
     width: 100px;
@@ -19,13 +24,27 @@
     justify-content: space-evenly;
     align-items: center;
 }
+.header
+{
+    top: 0px;
+    position: fixed;
+    background-color:white;
+    right: 0px;
+    left: 0px;
+   
+}
 .combined
 {
     display: flex;
     justify-content: space-between;
-    padding: 0px 15px 0px 15px;
-    margin: 15px;
+    /* padding: 0px 15px 0px 15px; */
+    margin: 15px 4rem;
+    padding-bottom: 10px;
    
+}
+.cane
+{
+    padding-right: 8px;
 }
 .pare
 {
@@ -72,7 +91,13 @@
 .logomerg
 {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    margin: 15px 4rem;
+}
+.midd
+{
+    border-bottom: 1px solid grey;
+    box-shadow: 0px 1px 1px 0px grey;
 }
 .filt
 {
@@ -81,14 +106,12 @@
     height: 40px;
     font-size: small;
     font-weight: 600;
+    background-color: white;
 }
-.nones
-{
-    height: 30px;
-}
+
 .crd1
 {
-    width: 300px;
+    width: 330px;
     height: 265px;
     border-radius: 15px;
 }
@@ -96,7 +119,8 @@
 {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    margin: 180px 4rem;
 }
 .finland
 {
@@ -105,7 +129,23 @@
 }
 .last
 {
-    padding-left: 60px;
+    padding-left: 90px;
+}
+.last1
+{
+    padding-left: 120px
+}
+.last2
+{
+    padding-left: 145px
+}
+.last3
+{
+    padding-left: 145px
+}
+.last4
+{
+    padding-left: 160px;
 }
 .kilo
 {
@@ -120,11 +160,56 @@
     background-color: black;
     color: white;
     border-radius: 20px;
-    height: 40px;
+    height: 45px;
     width: 130px;
 }
 .fixer
 {
     position: fixed;
     
+}
+.details
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 4rem;
+    background-color: white;
+}
+.laster
+{
+    bottom: 0px;
+    position: fixed;
+    background-color: white;
+    right: 0px;
+    left: 0px;
+    background: transparent;
+}
+.company
+{
+    justify-content: space-between;
+}
+.buttn
+{
+    padding-bottom: 30px;
+}
+.pares
+{
+    display: flex;
+
+}
+.lets
+{
+    padding-right: 10px;
+}
+.resource
+{
+    display: flex;
+}
+.foot
+{
+    padding-right: 10px;
+}
+.india
+{
+    padding-right: 15px;
 }
